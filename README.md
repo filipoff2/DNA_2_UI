@@ -28,6 +28,19 @@ sample path for //TP53_dna = "ATGGAGGAGCCGCAGTCAGATCCTAGCGTCGAGCCCC...";
 
 
 
+* CodonToBase64
+<img width="854" height="79" alt="image" src="https://github.com/user-attachments/assets/70fbddcd-b477-4d70-9549-5546e141a96b" />
+
+
+
+
+
+
+
+
+
+
+
 
 
   NEXT:
