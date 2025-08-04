@@ -24,6 +24,7 @@ sample path for //TP53_dna = "ATGGAGGAGCCGCAGTCAGATCCTAGCGTCGAGCCCC...";
 
 
   NEXT:
-  <img width="3000" height="3000" alt="image" src="https://github.com/user-attachments/assets/cd560953-ea32-45f8-82b1-65a670cbab34" />
+  <img width="527" height="311" alt="image" src="https://github.com/user-attachments/assets/2dc4ca77-740e-47fe-b3f2-982f3f6581ea" />
+
 
 
