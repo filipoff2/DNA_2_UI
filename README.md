@@ -15,7 +15,7 @@ sample path for //TP53_dna = "ATGGAGGAGCCGCAGTCAGATCCTAGCGTCGAGCCCC...";
 
 * code was generated via copilot
 
-* CodonToPath
+* CodonPathDrawer
 
   
   <img width="838" height="441" alt="image" src="https://github.com/user-attachments/assets/9ea56a7c-7e46-4482-b4f9-ddf6d372d277" />
