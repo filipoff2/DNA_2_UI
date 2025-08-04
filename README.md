@@ -22,6 +22,13 @@ sample path for //TP53_dna = "ATGGAGGAGCCGCAGTCAGATCCTAGCGTCGAGCCCC...";
 
 
 
+* DnaCodonPathDrawer
+
+<img width="744" height="502" alt="image" src="https://github.com/user-attachments/assets/39835c8a-000b-4b70-ae77-0f046d48a351" />
+
+
+
+
 
   NEXT:
   <img width="527" height="311" alt="image" src="https://github.com/user-attachments/assets/2dc4ca77-740e-47fe-b3f2-982f3f6581ea" />
