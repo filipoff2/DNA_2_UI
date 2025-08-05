@@ -64,5 +64,15 @@ there are 64 codons so base64 looks as natural idea
 
   <img width="186" height="203" alt="image" src="https://github.com/user-attachments/assets/4a281678-b0d5-47dc-987e-5648aa087c34" />
 
+  brca1
+  
+  <img width="105" height="140" alt="image" src="https://github.com/user-attachments/assets/2ced0dea-2174-4540-adf2-acb1a8c74f37" />
+
+  egfr
+
+  <img width="86" height="130" alt="image" src="https://github.com/user-attachments/assets/6fd6677e-5510-45cd-8998-f027eda7b102" />
+
+
+
 
 
