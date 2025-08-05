@@ -2,7 +2,12 @@
 
 Idea is to display DNA in form that is more human readable.
 Just having fun with publicly avaible sequences.
-* code was generated via copilot
+
+Codones(0-63) as ankles (26+2n) for TP53: 
+<img width="186" height="203" alt="image" src="https://github.com/user-attachments/assets/4a281678-b0d5-47dc-987e-5648aa087c34" />
+
+
+
 * DnaPathDrawer
   display DNA as path, draw line wiht turning when A,T,C,G 
             'A' turn 0
@@ -50,12 +55,13 @@ there are 64 codons so base64 looks as natural idea
 
 <img width="854" height="79" alt="image" src="https://github.com/user-attachments/assets/70fbddcd-b477-4d70-9549-5546e141a96b" />
 
-* CodonPathDrawer2:
+* CodonPathDrawer2: Codones(0-63) as ankles (26+2n): 
 <img width="527" height="311" alt="image" src="https://github.com/user-attachments/assets/2dc4ca77-740e-47fe-b3f2-982f3f6581ea" />
 <img width="1133" height="869" alt="image" src="https://github.com/user-attachments/assets/c931cbd2-8bc1-4748-bfb0-a854dda2fb84" />
 
-Result:
-<img width="186" height="203" alt="image" src="https://github.com/user-attachments/assets/4a281678-b0d5-47dc-987e-5648aa087c34" />
+  Result:
+
+  <img width="186" height="203" alt="image" src="https://github.com/user-attachments/assets/4a281678-b0d5-47dc-987e-5648aa087c34" />
 
 
 
