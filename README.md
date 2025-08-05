@@ -4,6 +4,7 @@ Idea is to display DNA in form that is more human readable.
 Just having fun with publicly avaible sequences.
 
 Codones(0-63) as ankles (26+2n) for TP53: 
+
 <img width="186" height="203" alt="image" src="https://github.com/user-attachments/assets/4a281678-b0d5-47dc-987e-5648aa087c34" />
 
 
