@@ -32,38 +32,30 @@ sample path for //TP53_dna = "ATGGAGGAGCCGCAGTCAGATCCTAGCGTCGAGCCCC...";
 there are 64 codons so base64 looks as natural idea
   Example Mapping
   
-Codon	Index	Base64
-
-AAA	0	A
-
-AAC	1	B
-
-AAG	2	C
-
-AAU	3	D
-
-...	...	...
-
-UUU	63	/
+    Codon	Index	Base64
+    
+    AAA	0	A
+    
+    AAC	1	B
+    
+    AAG	2	C
+    
+    AAU	3	D
+    
+    ...	...	...
+    
+    UUU	63	/
 
 
 
 <img width="854" height="79" alt="image" src="https://github.com/user-attachments/assets/70fbddcd-b477-4d70-9549-5546e141a96b" />
 
+* CodonPathDrawer2:
+<img width="527" height="311" alt="image" src="https://github.com/user-attachments/assets/2dc4ca77-740e-47fe-b3f2-982f3f6581ea" />
+<img width="1133" height="869" alt="image" src="https://github.com/user-attachments/assets/c931cbd2-8bc1-4748-bfb0-a854dda2fb84" />
 
-
-
-
-
-
-
-
-
-
-
-
-  * NEXT:
-  <img width="527" height="311" alt="image" src="https://github.com/user-attachments/assets/2dc4ca77-740e-47fe-b3f2-982f3f6581ea" />
+Result:
+<img width="186" height="203" alt="image" src="https://github.com/user-attachments/assets/4a281678-b0d5-47dc-987e-5648aa087c34" />
 
 
 
