@@ -8,6 +8,8 @@ Codones(0-63) as ankles (26+2n) for TP53:
 <img width="186" height="203" alt="image" src="https://github.com/user-attachments/assets/4a281678-b0d5-47dc-987e-5648aa087c34" />
 
 
+<img width="92" height="148" alt="image" src="https://github.com/user-attachments/assets/891d4a88-a09a-406b-be62-6d4df2d15086" />
+
 
 * DnaPathDrawer
   display DNA as path, draw line wiht turning when A,T,C,G 
@@ -73,6 +75,15 @@ there are 64 codons so base64 looks as natural idea
   <img width="86" height="130" alt="image" src="https://github.com/user-attachments/assets/6fd6677e-5510-45cd-8998-f027eda7b102" />
 
 
+* CodonColorDrawer:
 
+
+<img width="417" height="238" alt="image" src="https://github.com/user-attachments/assets/a5abe6cf-4ad6-425c-80f0-4d6ffebe5b31" />
+
+
+<img width="92" height="148" alt="image" src="https://github.com/user-attachments/assets/bc473b37-c141-46c2-ae4e-d2a5cfaf6e06" />
+
+
+  
 
 
